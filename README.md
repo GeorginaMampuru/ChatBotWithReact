@@ -26,6 +26,12 @@ Navigate to the project directory:
 cd chat-bot
 Install the dependencies for the server:
 
+express is the HTTP server framework we’ll be using
+cors allows us to process requests from other hosts (for our ReactJS app)
+axios allows us to send HTTP requests to other servers (for Chat Engine APIs)
+nodemon allows us to run the server in dev-mode
+
+
 cd server
 
 npm install ```
@@ -45,6 +51,9 @@ Access the Chat Bot in your web browser at http://localhost:3000.
 npm i express cors axios
 npm i --save-dev nodemon ```
 
+Within frontend install this component with the following command:
+
+npm install react-chat-engine-pretty
 
 # Configuration
 Before running the Chat Bot, make sure to configure the necessary environment variables. Create a .env file in the server directory and add the following variables:
