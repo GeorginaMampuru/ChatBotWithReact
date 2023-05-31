@@ -54,7 +54,7 @@ Before running the Chat Bot, make sure to configure the necessary environment va
 - CHAT_ENGINE_PRIVATE_KEY=your_private_key
 - CHAT_ENGINE_PUBLIC_KEY=your_public_key
 ### Replace your_project_id, your_private_key, and your_public_key with your actual Chat Engine project credentials. You can obtain these credentials by creating an account on the Chat Engine platform.
-
+```
 # Usage
 Once the Chat Bot is up and running, users can interact with it by sending messages through the chat interface. The chat bot will respond with AI-generated replies based on the user's input. Users can also perform various actions such as creating an account, logging in, and managing their profiles.
 
