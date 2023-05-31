@@ -26,9 +26,9 @@ Navigate to the project directory:
 cd chat-bot
 Install the dependencies for the server:
 
-cd server
+```cd server
 
-npm install
+npm install ```
 Start the server:
 
 npm start
@@ -38,8 +38,14 @@ cd ../client
 npm install
 Start the client:
 
-npm start
+```npm start```
 Access the Chat Bot in your web browser at http://localhost:3000.
+
+### install a few dependencies to run a propr nodejs for this chat app
+```
+npm i express cors axios
+npm i --save-dev nodemon ```
+
 
 # Configuration
 Before running the Chat Bot, make sure to configure the necessary environment variables. Create a .env file in the server directory and add the following variables:
