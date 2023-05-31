@@ -20,13 +20,13 @@ The Chat Bot is an interactive application that allows users to engage in conver
 
 
 1. Clone the repository:
-
+```
 git clone https://github.com/your-username/chat-bot.git
 Navigate to the project directory:
 cd chat-bot
 Install the dependencies for the server:
 
-```cd server
+cd server
 
 npm install ```
 Start the server:
