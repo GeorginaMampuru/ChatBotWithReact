@@ -42,7 +42,6 @@ Start the client:
 Access the Chat Bot in your web browser at http://localhost:3000.
 
 ### install a few dependencies to run a propr nodejs for this chat app
-```
 npm i express cors axios
 npm i --save-dev nodemon ```
 
