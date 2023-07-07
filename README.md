@@ -1,4 +1,4 @@
-Copy code
+
 # Chat Bot with React 
 
 This is a chat bot created using React, Node.js, and Chat Engine.
