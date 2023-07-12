@@ -7,6 +7,7 @@ This is a chat bot created using React, Node.js, and Chat Engine.
 
 The Chat Bot is an interactive application that allows users to engage in conversations with an AI-powered chat bot. It utilizes React for the front-end user interface, Node.js for the server-side logic, and Chat Engine for real-time messaging functionality.
 
+
 ## Features
 
 - Real-time messaging: Users can send and receive messages in real-time with the chat bot.
@@ -19,6 +20,10 @@ The Chat Bot is an interactive application that allows users to engage in conver
 ## Installation
 
 
+# Overview
+![MicrosoftTeams-image (8)](https://github.com/GeorginaMampuru/ChatBotWithReact/assets/66384787/d449ab5f-a71e-4486-baf2-0e802c79d808)
+
+![MicrosoftTeams-image (8)](https://github.com/GeorginaMampuru/ChatBotWithReact/assets/66384787/3284a7b7-3b56-4fa0-91d5-5933c0b5d6
 1. Clone the repository:
 ```
 git clone https://github.com/your-username/chat-bot.git
@@ -30,6 +35,8 @@ express is the HTTP server framework we’ll be using
 cors allows us to process requests from other hosts (for our ReactJS app)
 axios allows us to send HTTP requests to other servers (for Chat Engine APIs)
 nodemon allows us to run the server in dev-mode
+
+46)
 
 
 cd server
