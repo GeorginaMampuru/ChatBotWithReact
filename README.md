@@ -1,6 +1,11 @@
 
 # Chat Bot with React 
 
+## Overview
+![MicrosoftTeams-image (8)](https://github.com/GeorginaMampuru/ChatBotWithReact/assets/66384787/d449ab5f-a71e-4486-baf2-0e802c79d808)
+![MicrosoftTeams-image (9)](https://github.com/GeorginaMampuru/ChatBotWithReact/assets/66384787/67f9293a-3906-4c51-b9e6-66b903f53ef0)
+
+
 This is a chat bot created using React, Node.js, and Chat Engine.
 
 ## Overview
@@ -20,10 +25,7 @@ The Chat Bot is an interactive application that allows users to engage in conver
 ## Installation
 
 
-# Overview
-![MicrosoftTeams-image (8)](https://github.com/GeorginaMampuru/ChatBotWithReact/assets/66384787/d449ab5f-a71e-4486-baf2-0e802c79d808)
 
-![MicrosoftTeams-image (8)](https://github.com/GeorginaMampuru/ChatBotWithReact/assets/66384787/3284a7b7-3b56-4fa0-91d5-5933c0b5d6
 1. Clone the repository:
 ```
 git clone https://github.com/your-username/chat-bot.git
