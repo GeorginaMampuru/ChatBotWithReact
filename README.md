@@ -2,6 +2,8 @@
 # Chat Bot with React 
 
 ## Overview
+
+![image](https://github.com/GeorginaMampuru/ChatBotWithReact/assets/66384787/941f0e7a-7837-4c4c-bcb7-bd1d1710631a)
 ![MicrosoftTeams-image (8)](https://github.com/GeorginaMampuru/ChatBotWithReact/assets/66384787/d449ab5f-a71e-4486-baf2-0e802c79d808)
 ![MicrosoftTeams-image (9)](https://github.com/GeorginaMampuru/ChatBotWithReact/assets/66384787/67f9293a-3906-4c51-b9e6-66b903f53ef0)
 
