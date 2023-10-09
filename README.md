@@ -35,7 +35,7 @@ Navigate to the project directory:
 cd chat-bot
 Install the dependencies for the server:
 
-express is the HTTP server framework we’ll be using
+express is the HTTP server web framework for node.js
 cors allows us to process requests from other hosts (for our ReactJS app)
 axios allows us to send HTTP requests to other servers (for Chat Engine APIs)
 nodemon allows us to run the server in dev-mode
